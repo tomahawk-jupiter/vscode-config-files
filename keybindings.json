@@ -49,6 +49,18 @@
     "command": "cursorUp",
     "when": "editorTextFocus"
   },{
+    "key": "ctrl+shift+i",
+    "command": "selectPrevSuggestion",
+    "when": "suggestWidgetVisible && textInputFocus"
+  },{
+    "key": "ctrl+shift+k",
+    "command": "selectNextSuggestion",
+    "when": "suggestWidgetVisible && textInputFocus"
+  },{
+    "key": "ctrl+shift+j",
+    "command": "hideSuggestWidget",
+    "when": "suggestWidgetVisible && textInputFocus"
+  },{
     "key": "ctrl+shift+h",
     "command": "cursorLeft",
     "when": "editorTextFocus"

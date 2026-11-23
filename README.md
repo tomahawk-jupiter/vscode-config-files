@@ -25,6 +25,11 @@ Sidepanel focus
 - Ctrl + Shift + j (new folder) l (new file)
 - Ctrl + Shift + o (delete file) ; (edit file)
 
+Suggestions Widget Visible (auto-complete suggestions)
+
+- Ctrl + Shift + i (up) k (down)
+- Ctrl + Shift + j (close)
+
 ## VSCode default:
 
 **These are useful default keybindings to know**
